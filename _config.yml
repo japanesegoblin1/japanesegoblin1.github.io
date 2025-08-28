@@ -15,7 +15,7 @@ title: Richard Xiang's Portfolio # This is what shows up in the tab of the brows
 name: Richard Xiang
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Mechanical Engineering graduate from The University of Texas at Austin specializing in robotics, mechatronics, and digital fabrication. Passionate about designing systems that unite mechanical precision with intelligent automation, from robotic shelving to wearable haptic devices for medical training.
+  A Mechanical Engineering graduate from The University of Texas at Austin specializing in robotics, mechatronics, and digital fabrication. Passionate about designing systems that unite mechanical precision with intelligent automation, from robotic shelving to wearable haptic devices for medical training.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
