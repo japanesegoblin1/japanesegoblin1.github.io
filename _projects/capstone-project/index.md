@@ -14,5 +14,5 @@ skills:
 - ROS
 - Ultraleap Integration
 - VR Integration
-main-image: /assets/images/utme-hero/hero1.jpg
+main-image: /hero1.jpg
 ---
