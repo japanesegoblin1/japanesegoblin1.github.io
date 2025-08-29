@@ -20,6 +20,6 @@ main-image: /hero1.jpg
 # This page is currently under construction. 
 If you have any questions about this project, please contact me below!
 
-{% include image-gallery.html images="hero1.jpg" height="400" %} 
+{% include image-gallery.html images="hero1.jpg" height="400" width= "900px" %} 
 
 {% include youtube-video.html id="C44VwBty0CQ" autoplay= "false"%}
