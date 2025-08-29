@@ -16,3 +16,6 @@ skills:
 - VR Integration
 main-image: /hero1.jpg
 ---
+
+---
+{% include image-gallery.html images="hero1.jpg" height="400" %} 
