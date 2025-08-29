@@ -7,7 +7,6 @@ skills:
 - PCB Building/Soldering
 - CAD
 - 3D Printing
-- Design and Construction
 - Rapid Iteration
 - Programming
 - Unity
@@ -19,3 +18,5 @@ main-image: /hero1.jpg
 
 ---
 {% include image-gallery.html images="hero1.jpg" height="400" %} 
+
+{% include youtube-video.html id="C44VwBty0CQ" autoplay= "false"%}
