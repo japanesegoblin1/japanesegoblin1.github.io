@@ -17,8 +17,8 @@ main-image: /hero1.jpg
 ---
 
 ---
-# This page is currently under construction. 
-If you have any questions about this project, please contact me below!
+# This page is currently under construction. I am trying to get better images and documentation of everything at the moment.
+If you have any questions about this project, please contact me at the bottom of the main page!
 
 {% include image-gallery.html images="hero1.jpg" height="600" %} 
 
