@@ -14,3 +14,5 @@ skills:
 - Project Management
 main-image: /roboticshelfcover.jpg
 ---
+
+# This page is currently under construction! For any questions you may have, you can ask on the bottom of the front page. Thank you!
