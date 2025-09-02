@@ -16,3 +16,6 @@ main-image: /roboticshelfcover.jpg
 ---
 
 # This page is currently under construction! For any questions you may have, you can ask on the bottom of the front page. Thank you!
+
+{% include image-gallery.html images="roboticshelfiso.jpg" height="400" %}
+{% include image-gallery.html images="roboticshelfwires.jpg" height="400" %}
