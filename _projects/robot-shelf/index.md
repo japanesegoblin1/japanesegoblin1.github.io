@@ -5,5 +5,5 @@ description:  Designed and prototyped an automated stocking system to improve ac
 skills: 
 - skill 1
 - skill 2
-main-image: /project.webp 
+main-image: /roboticshelfcover.jpg
 ---
