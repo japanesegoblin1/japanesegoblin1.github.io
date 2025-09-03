@@ -19,3 +19,4 @@ main-image: /roboticshelfcover.jpg
 
 {% include image-gallery.html images="roboticshelfiso.jpg" height="400" %}
 {% include image-gallery.html images="roboticshelfwires.jpg" height="400" %}
+{% include youtube-video.html id="{0OzgKmFxF0k}" autoplay= "false"%}
