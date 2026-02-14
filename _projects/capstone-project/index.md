@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UTME HERO – Integration of a Wearable Haptic Device with a VR/AR system
+title: UTME HERO – Integration of a Wearable Haptic Device with a VR/AR system for the purpose of teaching thoracostomies
 description:  Completely rebuilt and improved upon A Wearable Haptic Interface Combining Kinesthetic and Tactile Sensations for 6 DOF Haptic Guidance with the purpose of improving teaching thoracostomies by printing the wearable mesh with PETG and hand building a custom PCB, as well as Expanded the initial implementation integrating the device with Ultraleap, ROS, Unity, and Meta Quest. 
 skills: 
 - Arduino
@@ -24,7 +24,9 @@ If you have any questions about this project, please contact me at the bottom of
 
 {% include youtube-video.html id="C44VwBty0CQ" autoplay= "false" width= "900px" %}
 
-# Where to start?
+## Where to start?
+### What is the goal of this project?
+### What is a thoracostomy?
 You can essentially break this project down into 3 main parts.
 - The sleeve itself
 - Electronics/motors/etc
