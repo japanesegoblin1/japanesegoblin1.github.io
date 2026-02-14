@@ -18,7 +18,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   I'm a Mechanical Engineering graduate from The University of Texas at Austin specializing in robotics, mechatronics, and digital fabrication. Passionate about designing systems that unite mechanical precision with intelligent automation, from robotic shelving to wearable haptic devices for medical training.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/profilepicture.png
 
 
 # Link your resume
