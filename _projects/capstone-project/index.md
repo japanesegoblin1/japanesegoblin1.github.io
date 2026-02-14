@@ -13,7 +13,7 @@ skills:
 - ROS
 - Ultraleap Integration
 - VR Integration
-main-image: /hero1.jpg
+main-image: /hero2.jpg
 ---
 
 ---
