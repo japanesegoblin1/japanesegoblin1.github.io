@@ -23,3 +23,9 @@ If you have any questions about this project, please contact me at the bottom of
 {% include image-gallery.html images="hero2.jpg" height="600" %} 
 
 {% include youtube-video.html id="C44VwBty0CQ" autoplay= "false" width= "900px" %}
+
+# Where to start?
+You can essentially break this project down into 3 main parts.
+- The sleeve itself
+- Electronics/motors/etc
+- Software
