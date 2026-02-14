@@ -46,9 +46,27 @@ If you have any questions about this project, please contact me at the bottom of
 {% include youtube-video.html id="C44VwBty0CQ" autoplay= "false" width= "900px" %}
 
 # Where to start?
+
 ## What is the goal of this project?
+
 ## What is a thoracostomy?
-You can essentially break this project down into 3 main parts.
-- The sleeve itself
-- Electronics/motors/etc
-- Software
+
+## Sleeve Design
+
+## Simulated Chest Trainer Environment
+
+## Haptic Rendering
+
+# User Study
+
+## The Task
+
+## Experimental Design
+
+## Statistical Analysis Methods
+
+# Results
+
+# Discussion and Conclusion
+
+
