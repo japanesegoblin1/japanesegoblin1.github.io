@@ -28,8 +28,8 @@ At a lower level, you can break our solution to this problem into 3 parts
 - Electronics
 - Software
 
-Based on a design from our predecessor, Bharat Mathur, we made a sleeve that was able to give haptic feedback in 6 DOF <br>
-Electronics were completely redone, basically just header pins in a PCB that had to be hand soldered (pain in the ***) <br>
+For the sleeve, we based our design from our predecessor, Bharat Mathur. We made a sleeve that was able to give haptic feedback in 6 DOF, while hopefully not being too cumbersome <br>
+Electronics were completely redone, basically just header pins in a PCB that had to be hand soldered (pain in the ***), with it all eventually sitting on top of an Arduino MEGA <br>
 Software was the interesting part, there were many subparts to this breaking down into:
 - Simulated Environment
 - Haptic Rendering
