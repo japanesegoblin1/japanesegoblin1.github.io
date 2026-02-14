@@ -23,6 +23,20 @@ To summarize the issue, thoracostomies are a type of surgery, among other things
 
 The way we wanted to approach it, from a high level, was to create a simulation that has live haptic feedback when something goes wrong in the simulated procedure. Generally speaking this will be incorrect tube insertion depth (big one), and bumping into objects like ribs or something like that in the body (smaller but still big issue). One big thing with the feedback is that there is this sort of "popping" (gross I know) when the tube is inserted correctly, and that especially is hard to understand when you don't know what you are looking for.
 
+At a lower level, you can break our solution to this problem into 3 parts
+- Sleeve
+- Electronics
+- Software
+
+Based on a design from our predecessor, Bharat Mathur, we made a sleeve that was able to give haptic feedback in 6 DOF
+Electronics were completely redone, basically just header pins in a PCB that had to be hand soldered (pain in the ***)
+Software was the interesting part, there were many subparts to this breaking down into:
+- Simulated Environment
+- Haptic Rendering
+- ROS
+
+Not gonna bother explaining this too much because I have rambled enough in a TL;DR. If you got this far, thank you for reading! I will leave you will video of this in action. Here, you can (hopefully) see the sleeve and the VR environment working!
+
 # The big blog post is currently under construction. I am trying to get better images and documentation of everything at the moment.
 If you have any questions about this project, please contact me at the bottom of the main page!
 
