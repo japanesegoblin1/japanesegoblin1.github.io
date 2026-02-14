@@ -32,10 +32,11 @@ For the sleeve, we based our design from our predecessor, Bharat Mathur. We made
 Electronics were completely redone, basically just header pins in a PCB that had to be hand soldered (pain in the ***), with it all eventually sitting on top of an Arduino MEGA <br>
 Software was the interesting part, there were many subparts to this breaking down into:
 - Simulated Environment
-- Haptic Rendering
+- Haptic Rendering (Hand Tracking included)
 - ROS
 
-Not gonna bother explaining this too much because I have rambled enough in a TL;DR. If you got this far, thank you for reading! I will leave you will video of this in action. Here, you can (hopefully) see the sleeve and the VR environment working!
+Not gonna bother explaining this too much because I have rambled enough in a TL;DR. If you got this far, thank you for reading! I will leave you will video of this in action. Here, you can (hopefully) see the sleeve and the VR environment working! <br>
+{% include youtube-video.html id="HykyClSQoaA" autoplay= "false" width= "1200px" %}
 
 # The big blog post is currently under construction. I am trying to get better images and documentation of everything at the moment.
 If you have any questions about this project, please contact me at the bottom of the main page!
