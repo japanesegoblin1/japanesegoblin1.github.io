@@ -17,7 +17,7 @@ main-image: /hero2.jpg
 ---
 
 ---
-#For those who don't want to read the whole blog post about this project, here is the TL;DR explaination of this project
+# For those who don't want to read the whole blog post about this project, here is the TL;DR explaination of this project
 The project essentially sought to try to make the process of learning how to do a thoracostmy easier.
 To summarize the issue, thoracostomies are a type of surgery, among other things, have the combined trouble of being low frequency and high failure rate. Studies (hopefully linked here soon) were done as to why, and it basically amounted to the procedure being very dependent on intuition, which is built by experience. Since the procedure itself is fairly uncommon, doctors have little access to good practice.
 
