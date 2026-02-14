@@ -18,8 +18,9 @@ main-image: /hero2.jpg
 
 ---
 # For those who don't want to read the whole blog post about this project, here is the TL;DR explaination of this project
+
 The project essentially sought to try to make the process of learning how to do a thoracostmy easier.
-To summarize the issue, thoracostomies are a type of surgery, among other things, have the combined trouble of being low frequency and high failure rate. Studies (hopefully linked here soon) were done as to why, and it basically amounted to the procedure being very dependent on intuition, which is built by experience. Since the procedure itself is fairly uncommon, doctors have little access to good practice.
+To summarize the issue, thoracostomies are a type of surgery that, among other things, have the combined trouble of being low frequency and high failure rate. Studies (hopefully linked here soon) were done as to why, and it basically amounted to the procedure being very dependent on intuition, which is built by experience. Since the procedure itself is fairly uncommon, doctors have little access to good practice.
 
 The way we wanted to approach it, from a high level, was to create a simulation that has live haptic feedback when something goes wrong in the simulated procedure. Generally speaking this will be incorrect tube insertion depth (big one), and bumping into objects like ribs or something like that in the body (smaller but still big issue). One big thing with the feedback is that there is this sort of "popping" (gross I know) when the tube is inserted correctly, and that especially is hard to understand when you don't know what you are looking for.
 
@@ -46,6 +47,9 @@ If you have any questions about this project, please contact me at the bottom of
 {% include youtube-video.html id="C44VwBty0CQ" autoplay= "false" width= "900px" %}
 
 # Where to start?
+
+Generally speaking, training for emergency skills, like placing a chest tube (thoracostomy), takes many forms including demonstrations on cadavers, live animals, or live patients, as well as task trainers and VR simulators. For a thoracostomy, a tube is inserted into the pleural sapce with a clamp for the purpose of removing things like blood/air/fluid from a patient's chest cavity.
+
 
 ## What is the goal of this project?
 
