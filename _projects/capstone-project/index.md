@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UTME HERO – Integration of a Wearable Haptic Device with a VR/AR system for the purpose of teaching thoracostomies
-description:  Completely rebuilt and improved upon A Wearable Haptic Interface Combining Kinesthetic and Tactile Sensations for 6 DOF Haptic Guidance with the purpose of improving teaching thoracostomies by printing the wearable mesh with PETG and hand building a custom PCB, as well as Expanded the initial implementation integrating the device with Ultraleap, ROS, Unity, and Meta Quest. 
+description:  Completely rebuilt and improved upon A Wearable Haptic Interface Combining Kinesthetic and Tactile Sensations for 6 DOF Haptic Guidance with the purpose of improving teaching thoracostomies by printing the wearable mesh with PETG and hand building a custom PCB, as well as Expanded the initial implementation integrating the device with ROS, Unity, and a Meta Quest. 
 skills: 
 - Arduino
 - PCB Building/Soldering
@@ -11,7 +11,6 @@ skills:
 - Programming
 - Unity
 - ROS
-- Ultraleap Integration
 - VR Integration
 main-image: /hero2.jpg
 ---
@@ -52,6 +51,10 @@ Generally speaking, training for emergency skills, like placing a chest tube (th
 
 
 ## What is the goal of this project?
+
+Basically, we hope to create a system that very closely simulates a real surgery, while also having a "training wheels" type of situation so that the trainee isn't constantly under trial by fire. We hope to tackle the many challenges that come with this, but at a lower level, we hope to simualte and better train a more accurate and controlled insertion. What comes with this is the trainee recognizing and reacting adequely to the characteristic relief of pressure, described as a "popping" sensation that is often present when the instument punctures the pleural space. This generally indicates a correct procedure, but it is a little weird and most first timer's will not get it and will often go deeper despite the feeling. Without accurate physical feedback, VR simulations alone cannot help trainees internalize this intuition.
+
+Generally, to induce this kind of physical experience, standard thoracostomy training is performed on chest tube trainers or cadavers. In either circumstance, the procedure's subject only has so many uses until a replacement is needed. Additionally, variables are generally unchangable, such as fat thickness, chest width, etc, without needing to change the entire subject, which could be expensive and not worth it.
 
 ## What is a thoracostomy?
 
