@@ -16,6 +16,8 @@ main-image: /hero2.jpg
 ---
 
 ---
+# Presented at the IEEE Haptics Symposium!! Yay!!!
+
 # For those who don't want to read the whole blog post about this project, here is the TL;DR explaination of this project
 
 The project essentially sought to try to make the process of learning how to do a thoracostmy easier.
